@@ -20,7 +20,9 @@ DeepSeek、Claude、GPT 聚合中转、自建网关、企业内网出口，均�
 ## 下载地址
 
 QQ群文件：237146828
-或者右侧Releases
+
+或者右侧 [Releases](https://github.com/344ts/devin-transfer-station/releases) 下载
+
 
 ## 这是什么
 
