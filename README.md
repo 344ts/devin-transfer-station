@@ -14,6 +14,7 @@ windsurf接入中转站 · windsurf自定义api · windsurf自定义模型 · de
 DeepSeek、Claude、GPT 聚合中转、自建网关、企业内网出口，均可即配即用，还支持自定义模型与模型路由。
 
 <img width="1567" height="638" alt="image" src="https://github.com/user-attachments/assets/bc6b59bc-ada9-4366-b93d-b5bc56fed958" />
+<img width="1468" height="617" alt="image" src="https://github.com/user-attachments/assets/ce3c0a4a-f7a1-4fb2-a37d-d120eb939ed1" />
 
 </div>
 
